@@ -5,15 +5,37 @@
 
 - 🌱 Pronouns: she/her
 - 📕 Developer in training
-  <div>
-    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-</a>
-      <a><img loading="lazy" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-      <a><img loading="lazy" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-      <a><img loading="lazy" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
-      <a><img loading="lazy" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
-      <a><img loading="lazy" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
+  - Languages
+    <div>
+    <!-- html -->
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"></a>
+    <!-- css -->
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"></a>
+    <!-- c# -->
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"></a>
+    <!-- php -->
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"></a>
+    <!-- javascript -->
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"></a>
+      
+    </div>
+  - Tools
+    <div>
+    <!-- canva -->
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"></a>
+    <!-- figma -->
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"></a>
+    <!-- vscode -->
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"></a>
+    <!-- visual studio -->
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"></a>
   </div>
+
+  <div>
+<a href="https://github.com/lxurinhx">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxurinhx&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lxurinhx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 - 📞 Contact
 <div>
