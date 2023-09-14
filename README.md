@@ -1,6 +1,14 @@
+<div align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=40&duration=4000&pause=1000&color=F736AC&center=true&vCenter=true&width=700&lines=Hello!+Welcome+to+my+Github+profile;My+name+is+Laura;I'm+18+years+old" alt="Typing SVG" />
 </a>
+</div>
+<div align="center">
+<a>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
+</a>
+</div>
+
 
 - 🌱 Pronouns: she/her
 - 📕 Developer in training
