@@ -37,6 +37,7 @@
     <!-- visual studio -->
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"></a>
   </div>
+  <br>
 
   <div>
     <a href="https://github.com/lxurinhx">
