@@ -12,6 +12,7 @@
 
 - 🌱 Pronouns: she/her
 - 📕 Developer in training
+- 🤙 Friends with Suze
   - Languages
     <div>
     <!-- html -->
